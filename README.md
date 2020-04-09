@@ -1,4 +1,5 @@
 # Instances-PhD
 Instâncias do Doutorado.
-*Isto é um tópico
+
+* Isto é um tópico
 - não lembro o que isso
